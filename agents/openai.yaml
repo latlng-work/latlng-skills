@@ -1,0 +1,4 @@
+interface:
+  display_name: "LatLng API"
+  short_description: "Build geocoding, places, and map workflows with LatLng."
+  default_prompt: "Use LatLng API to add geocoding, reverse geocoding, places search, nearby places, or map rendering to this project."
