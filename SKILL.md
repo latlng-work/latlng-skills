@@ -1,6 +1,6 @@
 ---
 name: latlng-api
-description: Build location-aware applications with LatLng APIs. Use when Codex needs to add, debug, or document geocoding, reverse geocoding, places search, nearby places, place categories, static maps, Leaflet raster tiles, MapLibre vector tiles, dataset tiles, or API key handling for LatLng-powered apps.
+description: Build location-aware applications with LatLng APIs. Use when Codex needs to implement geocoding, reverse geocoding, places search, nearby places, place categories, static maps, Leaflet raster tiles, MapLibre vector tiles, dataset tiles, or API key handling for LatLng-powered apps.
 ---
 
 # LatLng API
